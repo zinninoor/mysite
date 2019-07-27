@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Jun 2019 19:24:11 at http://www.woodsdecor.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.woodsdecor.in/ -O1 "C:\My Web Sites\furni" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:28:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 29931548 got 1121079): www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.mp4
+19:28:40	Error: 	"Not Found" (404) at link www.woodsdecor.in/demo/demo.css (from www.woodsdecor.in/)
+19:43:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 1380094 got 1076298): www.woodsdecor.in/images/blog/1.jpg
+19:44:23	Warning: 	Retry after error -4 (Incorrect length (1121079 Bytes, 29931548 expected)) at link www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.mp4 (from www.woodsdecor.in/)
+19:44:27	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.webm (from www.woodsdecor.in/)
+19:44:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 959168 got 944700): www.woodsdecor.in/images/blog/7.jpg
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/demo/demo.js (from www.woodsdecor.in/)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/fonts/glyphicons-halflings-regular.eot (from www.woodsdecor.in/css/bootstrap.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/fonts/glyphicons-halflings-regular.eot? (from www.woodsdecor.in/css/bootstrap.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/fonts/glyphicons-halflings-regular.woff (from www.woodsdecor.in/css/bootstrap.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/fonts/glyphicons-halflings-regular.ttf (from www.woodsdecor.in/css/bootstrap.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/fonts/glyphicons-halflings-regular.svg (from www.woodsdecor.in/css/bootstrap.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/ui.totop.png (from www.woodsdecor.in/css/plugin.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/css/grabbing.png (from www.woodsdecor.in/css/owl.carousel.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/css/AjaxLoader.gif (from www.woodsdecor.in/css/owl.theme.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/icon-slide-plus.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/icon-slide-min.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/close.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/close-2.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/icon-url.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/icon-zoom.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/list-arrow.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/page-loader.gif (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/ui/arrow-down-invert.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/ui/arrow-up-invert.png (from www.woodsdecor.in/css/style.css)
+19:46:55	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/background/bg-side-3.jpg (from www.woodsdecor.in/css/bg.css)
+19:46:56	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/background/bg-14.jpg (from www.woodsdecor.in/css/bg.css)
+19:46:56	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/background/bg-21.jpg (from www.woodsdecor.in/css/bg.css)
+19:46:56	Error: 	"Not Found" (404) at link www.woodsdecor.in/images/background/bg-22.jpg (from www.woodsdecor.in/css/bg.css)
+19:46:56	Warning: 	Retry after error -4 (Incorrect length (1076298 Bytes, 1380094 expected)) at link www.woodsdecor.in/images/blog/1.jpg (from www.woodsdecor.in/craftsmanship)
+19:46:57	Warning: 	Retry after error -4 (Incorrect length (944700 Bytes, 959168 expected)) at link www.woodsdecor.in/images/blog/7.jpg (from www.woodsdecor.in/craftsmanship)
+19:47:00	Error: 	"Not Found" (404) at link www.woodsdecor.in/table.php (from www.woodsdecor.in/craftsmanship)
+19:47:00	Error: 	"Not Found" (404) at link www.woodsdecor.in/chair.php (from www.woodsdecor.in/craftsmanship)
+19:47:00	Error: 	"Not Found" (404) at link www.woodsdecor.in/chester-consol.php (from www.woodsdecor.in/craftsmanship)
+19:47:00	Error: 	"Not Found" (404) at link www.woodsdecor.in/accessories.php (from www.woodsdecor.in/craftsmanship)
+19:47:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 29931548 got 2141297): www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.mp4
+19:47:03	Warning: 	Retry after error -4 (Incorrect length (2141297 Bytes, 29931548 expected)) at link www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.mp4 (from www.woodsdecor.in/)
+20:05:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 29931548 got 16997715): www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.mp4
+20:05:11	Error: 	"Incorrect length (16997715 Bytes, 29931548 expected)" (-4) after 2 retries at link www.woodsdecor.in/images/WoodsDecor-Crafting-Luxury_website.mp4 (from www.woodsdecor.in/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 minutes 0 seconds : 339 links scanned, 304 files written (32765974 bytes overall) [49550192 bytes received at 20142 bytes/sec], 414273 bytes transferred using HTTP compression in 13 files, ratio 22%, 1.5 requests per connection
+(30 errors, 9 warnings, 0 messages)
